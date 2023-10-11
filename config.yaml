@@ -1,0 +1,5 @@
+models:
+  - id: "ir-fe"
+    name: "IT Engineering KB"
+    modelName: "modelv1.0"
+    fulltextName: "assets/models/modelv1.0/fulltext0.csv"
